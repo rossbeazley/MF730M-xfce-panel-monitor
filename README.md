@@ -11,4 +11,4 @@ The plan is to make a native panel plugin and posibly utilising some character d
 
 
 
-If you want to use this with the generic monitor plugin, get the source for that folder somewhere and point the plugin at the shell api.sh file. Polling every couple of seconds appears ok.
+If you want to use this with the generic monitor plugin, get the source for that folder somewhere and point the plugin at the api.sh file. Polling every couple of seconds appears ok.
