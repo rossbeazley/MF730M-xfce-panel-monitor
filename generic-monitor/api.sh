@@ -18,7 +18,7 @@ function status {
 
   network_type=$(clean $(querystate network_type))
 
-  echo "<img>$BASEDIR/signal-$signalbar.png</img><txt> </txt><txt>$network_type</txt>"
+  echo "<img>$BASEDIR/signal-$signalbar.png</img><txt> $network_type</txt>"
 
 }
 
